@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mainedsa.org.ico",
     "slug": "maine-dsa",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "99.42%",
-    "time": 1244,
-    "timeDay": 4175,
-    "timeWeek": 1250,
-    "timeMonth": 1451,
-    "timeYear": 1244,
+    "uptimeYear": "99.43%",
+    "time": 1334,
+    "timeDay": 5483,
+    "timeWeek": 1992,
+    "timeMonth": 1598,
+    "timeYear": 1334,
     "dailyMinutesDown": {
       "2022-11-02": 354
     }

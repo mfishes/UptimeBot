@@ -4,7 +4,7 @@
     "url": "https://www.mainedsa.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.mainedsa.org.ico",
     "slug": "maine-dsa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 798,
     "timeYear": 1200,
     "dailyMinutesDown": {
+      "2023-01-23": 0,
       "2023-01-16": 21,
       "2023-01-13": 96,
       "2022-12-16": 23,

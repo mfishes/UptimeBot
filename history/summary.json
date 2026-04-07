@@ -6,16 +6,17 @@
     "slug": "maine-dsa",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "91.56%",
-    "uptimeWeek": "87.50%",
-    "uptimeMonth": "87.31%",
-    "uptimeYear": "98.76%",
+    "uptimeDay": "79.90%",
+    "uptimeWeek": "85.84%",
+    "uptimeMonth": "86.93%",
+    "uptimeYear": "98.73%",
     "time": 466,
     "timeDay": 750,
     "timeWeek": 1118,
     "timeMonth": 696,
     "timeYear": 467,
     "dailyMinutesDown": {
+      "2026-04-07": 168,
       "2026-04-06": 122,
       "2026-04-05": 148,
       "2026-04-04": 124,
@@ -52,7 +53,7 @@
       "2026-03-02": 183,
       "2026-03-01": 22,
       "2026-02-28": 195,
-      "2026-02-27": 64
+      "2026-02-27": 22
     }
   }
 ]

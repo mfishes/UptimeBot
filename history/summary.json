@@ -4,15 +4,15 @@
     "url": "https://www.mainedsa.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.mainedsa.org.ico",
     "slug": "maine-dsa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "47.60%",
-    "uptimeWeek": "82.13%",
-    "uptimeMonth": "90.08%",
-    "uptimeYear": "97.15%",
+    "uptimeDay": "43.97%",
+    "uptimeWeek": "81.61%",
+    "uptimeMonth": "89.96%",
+    "uptimeYear": "97.14%",
     "time": 463,
-    "timeDay": 639,
-    "timeWeek": 579,
+    "timeDay": 608,
+    "timeWeek": 576,
     "timeMonth": 512,
     "timeYear": 465,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2026-07-27": 75,
       "2026-07-28": 157,
       "2026-07-29": 610,
-      "2026-07-30": 144
+      "2026-07-30": 196
     }
   }
 ]
